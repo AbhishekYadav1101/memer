@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memer/static/js/main.bef1c2b4.js",
+    "index.html": "/memer/index.html",
+    "main.bef1c2b4.js.map": "/memer/static/js/main.bef1c2b4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bef1c2b4.js"
+  ]
+}
